@@ -1,0 +1,812 @@
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\BE.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\BL.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\EntityFramework.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\LiveCharts.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Google.Apis.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Google.Apis.Core.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\BE.pdb
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\BE.dll.config
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\BL.pdb
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\BL.dll.config
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\EntityFramework.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\LiveCharts.pdb
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\LiveCharts.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\DAL.pdb
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Google.Apis.pdb
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Google.Apis.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Google.Apis.Core.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\AboutUsUC.g.cs
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\ContactUC.g.cs
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\HistoryByItemUC.g.cs
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\HistoryBySCartUC.g.cs
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\HistoryByShopUC.g.cs
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\LastPurchaseUC.g.cs
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\LoginUC.g.cs
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\SidebarUC.g.cs
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\SignupUC.g.cs
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\App.g.cs
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\App.baml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Styles.baml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\AboutUsUC.baml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\ContactUC.baml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\HistoryByItemUC.baml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\HistoryBySCartUC.baml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\HistoryByShopUC.baml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\LastPurchaseUC.baml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\LoginUC.baml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\SidebarUC.baml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\SignupUC.baml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\BE.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\EntityFramework.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\LiveCharts.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Google.Apis.Auth.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Google.Apis.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Google.Apis.Core.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\BE.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\BE.dll.config
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\BL.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\EntityFramework.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\LiveCharts.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\LiveCharts.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\DAL.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Google.Apis.Auth.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Google.Apis.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Google.Apis.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Google.Apis.Core.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Google.Apis.Core.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\AboutUsUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\ContactUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\HistoryByItemUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\HistoryBySCartUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\HistoryByShopUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\LastPurchaseUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\LoginUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\SidebarUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\SignupUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\App.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\App.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Styles.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\AboutUsUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\ContactUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\HistoryByItemUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\HistoryBySCartUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\HistoryByShopUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\LastPurchaseUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\LoginUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\SidebarUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\SignupUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\PriceComparisonUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\PriceComparisonUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\CreateCartUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\Views\CreateCartUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\netstandard.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.AppContext.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Collections.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.ComponentModel.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Console.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Data.Common.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Globalization.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.IO.Compression.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.IO.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.IO.Pipes.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Linq.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Net.Http.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Net.Ping.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Net.Primitives.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Net.Requests.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Net.Security.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.ObjectModel.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Reflection.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Resources.Reader.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Resources.Writer.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Runtime.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Security.Claims.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Security.Principal.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Text.Encoding.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Threading.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Threading.Thread.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Threading.Timer.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.ValueTuple.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Xml.XPath.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfDiagram.WPF.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfDiagram.XForms.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfShared.WPF.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfDiagram.WPF.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfDiagram.XForms.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfShared.WPF.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\WpfApp.exe.config
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\obj\Debug\XamlC.stamp
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\BL.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\BL.dll.config
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\DAL.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\IronBarCode.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\DAL.dll.config
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\IronBarCode.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WPF-Project\WpfApp\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\netstandard.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.AppContext.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Collections.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.ComponentModel.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Console.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Data.Common.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Globalization.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.IO.Compression.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.IO.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.IO.Pipes.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Linq.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Net.Http.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Net.Ping.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Net.Primitives.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Net.Requests.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Net.Security.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.ObjectModel.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Reflection.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Resources.Reader.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Resources.Writer.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Runtime.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Security.Claims.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Security.Principal.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Text.Encoding.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Threading.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Threading.Thread.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Threading.Timer.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Xml.XPath.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfDiagram.WPF.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfDiagram.XForms.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfShared.WPF.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\DAL.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\IronBarCode.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfDiagram.WPF.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfDiagram.XForms.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfShared.WPF.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\DAL.dll.config
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\IronBarCode.xml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\WpfApp.exe.config
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\CreateCartUC.g.cs
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\PriceComparisonUC.g.cs
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\CreateCartUC.baml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\Views\PriceComparisonUC.baml
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\obj\Debug\XamlC.stamp
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Liron\Desktop\d\WPF-Project\WpfApp\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\netstandard.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.AppContext.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Collections.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.ComponentModel.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Console.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Data.Common.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Globalization.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.IO.Compression.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.IO.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.IO.Pipes.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Linq.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Net.Http.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Net.Ping.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Net.Primitives.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Net.Requests.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Net.Security.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.ObjectModel.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Reflection.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Resources.Reader.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Resources.Writer.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Runtime.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Security.Claims.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Security.Principal.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Text.Encoding.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Threading.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Threading.Thread.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Threading.Timer.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.ValueTuple.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Xml.XPath.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\BE.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\BL.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\EntityFramework.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Google.Apis.Auth.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Google.Apis.Core.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Google.Apis.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\LiveCharts.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfDiagram.WPF.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfDiagram.XForms.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfShared.WPF.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\DAL.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\IronBarCode.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\BE.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\BE.dll.config
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\BL.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\BL.dll.config
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\EntityFramework.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Google.Apis.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Google.Apis.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Google.Apis.Auth.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Google.Apis.Core.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Google.Apis.Core.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\LiveCharts.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\LiveCharts.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfDiagram.WPF.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfDiagram.XForms.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfShared.WPF.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\DAL.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\DAL.dll.config
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\IronBarCode.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\WpfApp.exe.config
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\AboutUsUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\ContactUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\CreateCartUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\HistoryByItemUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\HistoryBySCartUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\HistoryByShopUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\LastPurchaseUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\LoginUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\PriceComparisonUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\SidebarUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\SignupUC.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\App.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\App.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Styles.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\AboutUsUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\ContactUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\CreateCartUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\HistoryByItemUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\HistoryBySCartUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\HistoryByShopUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\LastPurchaseUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\LoginUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\PriceComparisonUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\SidebarUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\Views\SignupUC.baml
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\XamlC.stamp
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\WpfApp.pdb
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\obj\Debug\WpfApp_Content.g.cs
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\Videos\ExampleVideo.mp4
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\AVIFE\source\repos\WPF-Project\WpfApp\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Videos\ExampleVideo.mp4
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\netstandard.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.AppContext.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Collections.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.ComponentModel.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Console.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Data.Common.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Globalization.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.IO.Compression.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.IO.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.IO.Pipes.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Linq.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Net.Http.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Net.Ping.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Net.Primitives.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Net.Requests.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Net.Security.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Net.Sockets.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.ObjectModel.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Reflection.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Resources.Reader.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Resources.Writer.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Runtime.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Security.Claims.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Security.Principal.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Security.SecureString.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Text.Encoding.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Threading.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Threading.Thread.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Threading.Timer.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.ValueTuple.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Xml.XPath.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\BE.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\BL.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\EntityFramework.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Google.Apis.Auth.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Google.Apis.Core.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Google.Apis.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\LiveCharts.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfDiagram.WPF.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfDiagram.XForms.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfShared.WPF.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\DAL.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\IronBarCode.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\BE.pdb
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\BE.dll.config
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\BL.pdb
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\BL.dll.config
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\EntityFramework.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Google.Apis.pdb
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Google.Apis.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Google.Apis.Auth.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Google.Apis.Core.pdb
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Google.Apis.Core.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\LiveCharts.pdb
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\LiveCharts.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfDiagram.WPF.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfDiagram.XForms.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Syncfusion.SfShared.WPF.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\DAL.pdb
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\DAL.dll.config
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\IronBarCode.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\WpfApp.exe.config
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\AboutUsUC.g.cs
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\ContactUC.g.cs
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\CreateCartUC.g.cs
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\HistoryByItemUC.g.cs
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\HistoryBySCartUC.g.cs
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\HistoryByShopUC.g.cs
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\LastPurchaseUC.g.cs
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\LoginUC.g.cs
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\PriceComparisonUC.g.cs
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\SidebarUC.g.cs
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\SignupUC.g.cs
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\App.g.cs
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\WpfApp_Content.g.cs
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\App.baml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Styles.baml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\AboutUsUC.baml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\ContactUC.baml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\CreateCartUC.baml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\HistoryByItemUC.baml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\HistoryBySCartUC.baml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\HistoryByShopUC.baml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\LastPurchaseUC.baml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\LoginUC.baml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\PriceComparisonUC.baml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\SidebarUC.baml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\Views\SignupUC.baml
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\XamlC.stamp
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\AVIFE\Desktop\23.02.2021 - גרסה 1 להגשה\WPF-Project\WpfApp\obj\Debug\WpfApp.pdb

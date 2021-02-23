@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Controls;
+
+namespace WpfApp.Tools
+{
+    class ValidPassword 
+    {
+        public bool IsValidPassword(string password)
+        {
+   
+            if (password == null)
+                return false;
+
+            string strongLetters = "~!@#$%^&*";
+
+            if (password.Length > 6 && password.Any((char c) => strongLetters.Contains(c)))
+                return true;
+
+            return false;
+        }
+    }
+}
