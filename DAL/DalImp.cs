@@ -151,8 +151,16 @@ namespace DAL
         {
             List<PurchaseItem> LastPurchase = new List<PurchaseItem>();
             var currentUserId = currentUser.Id;
-            GetImagesFromDrive(currentUserId);
-            UpdateUserList(currentUserId);
+            
+            try
+            {
+                GetImagesFromDrive(currentUserId);
+                UpdateUserList(currentUserId);
+            }
+            catch
+            {
+
+            }
 
             string CSPath = Directory.GetParent(Directory.GetParent(Directory.GetParent(Directory.GetCurrentDirectory()).FullName).FullName).FullName;
             string FolderPath = Path.Combine(CSPath, @"DAL\UsersLists\" + currentUserId + ".txt" );
