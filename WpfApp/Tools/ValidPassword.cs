@@ -19,7 +19,7 @@ namespace WpfApp.Tools
             //string strongLetters = "~!@#$%^&*";
 
             //if (password.Length > 6 && password.Any((char c) => strongLetters.Contains(c)))
-            if (password.Length > 6)
+            if (password.Length >= 6)
                 return true;
 
             return false;
