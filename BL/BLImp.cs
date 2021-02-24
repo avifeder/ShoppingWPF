@@ -44,6 +44,9 @@ namespace BL
 
                 if (newUser.FirstName == null || newUser.LastName == null || newUser.Id == null || newUser.Mail == null || newUser.Password == null )
                     return false;
+                    
+                if (newUser.Password.Length < 6)
+                    return false;                
 
                 var list = dal.GetAllUsers(user => user.Id == newUser.Id || user.Mail == newUser.Mail);
 
