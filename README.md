@@ -15,6 +15,5 @@ The app allows you to see plenty of statistics about yours shoppings:<br />
 - See what is the average total purchase cost in each store, at anytime that you choose.<br /><br />
 
 ## Shopping Recommends
-So this is our AI! <br />
 The app also know to recommend you what products to buy, based on you previouse orders.<br />
 Using the Yi algorithm, the app analyzes your shopping history, finds connections between purchases and recommends what to buy.
