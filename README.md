@@ -16,7 +16,7 @@ The app allows you to see plenty of statistics about yours shoppings:<br />
 
 ## Shopping Recommends
 The app also know to recommend you what products to buy, based on you previouse orders.<br />
-Using the Yi algorithm, the app analyzes your shopping history, finds connections between purchases and recommends what to buy.
+Using the Yi algorithm, the app analyzes your shopping history, finds connections between purchases and products, and recommends what to buy.
 
 ## Demo video
 ![Demo video](https://github.com/avifeder/ShoppingWPF/blob/main/WpfApp/Videos/ExampleVideo.mp4)<br /><br />
